@@ -1,0 +1,14 @@
+E:\Documents\Documents\Visual Studio 2010\Projects\TimeCnvtr\TimeCnvtr\Bin\Debug\ApplicationIcon.png
+E:\Documents\Documents\Visual Studio 2010\Projects\TimeCnvtr\TimeCnvtr\Bin\Debug\Background.png
+E:\Documents\Documents\Visual Studio 2010\Projects\TimeCnvtr\TimeCnvtr\Bin\Debug\TimeCnvtr.dll
+E:\Documents\Documents\Visual Studio 2010\Projects\TimeCnvtr\TimeCnvtr\Bin\Debug\TimeCnvtr.pdb
+E:\Documents\Documents\Visual Studio 2010\Projects\TimeCnvtr\TimeCnvtr\Bin\Debug\AppManifest.xaml
+E:\Documents\Documents\Visual Studio 2010\Projects\TimeCnvtr\TimeCnvtr\Bin\Debug\TimeCnvtr.xap
+E:\Documents\Documents\Visual Studio 2010\Projects\TimeCnvtr\TimeCnvtr\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\Documents\Visual Studio 2010\Projects\TimeCnvtr\TimeCnvtr\obj\Debug\App.g.i.cs
+E:\Documents\Documents\Visual Studio 2010\Projects\TimeCnvtr\TimeCnvtr\obj\Debug\MainPage.g.i.cs
+E:\Documents\Documents\Visual Studio 2010\Projects\TimeCnvtr\TimeCnvtr\obj\Debug\TimeCnvtr.g.resources
+E:\Documents\Documents\Visual Studio 2010\Projects\TimeCnvtr\TimeCnvtr\obj\Debug\TimeCnvtr.dll
+E:\Documents\Documents\Visual Studio 2010\Projects\TimeCnvtr\TimeCnvtr\obj\Debug\TimeCnvtr.pdb
+E:\Documents\Documents\Visual Studio 2010\Projects\TimeCnvtr\TimeCnvtr\obj\Debug\XapCacheFile.xml
+e:\documents\documents\visual studio 2010\Projects\TimeCnvtr\TimeCnvtr\obj\Debug\TimeZoneList.g.i.cs

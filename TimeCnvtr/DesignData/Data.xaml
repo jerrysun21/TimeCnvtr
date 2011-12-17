@@ -1,0 +1,24 @@
+﻿<local:TimeConverter 
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"       
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:TimeCnvtr">
+
+    <local:TimeConverter.timezones>
+        <local:TimeZoneItem Offset="-5f" ShortName="EST" LongName="Eastern Stasdfadsfasdfadsfadsfadsfadsfandard Time"/>
+        <local:TimeZoneItem Offset="-5f" ShortName="EST" LongName="Eastern Standard Time"/>
+        <local:TimeZoneItem Offset="-5f" ShortName="EST" LongName="Eastern Standard Time"/>
+        <local:TimeZoneItem Offset="-5f" ShortName="EST" LongName="Eastern Standard Time"/>
+        <local:TimeZoneItem Offset="-5f" ShortName="EST" LongName="Eastern Standard Time"/>
+        <local:TimeZoneItem Offset="-5f" ShortName="EST" LongName="Eastern Standard Time"/>
+        <local:TimeZoneItem Offset="-5f" ShortName="EST" LongName="Easternasdfadsfadsfadsfadsfadsf Standard Time"/>
+    </local:TimeConverter.timezones>
+    
+    <local:TimeConverter.disFrmTimeZone>
+        From Time Zone
+    </local:TimeConverter.disFrmTimeZone>
+    
+    <local:TimeConverter.disToTimeZone>
+        To Time Zone
+    </local:TimeConverter.disToTimeZone>
+
+</local:TimeConverter>
